@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Whitelion]]></title>
-        <description><![CDATA[Whitelion]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[White Lion Detail]]></title>
+        <description><![CDATA[White Lion Detail]]></description>
+        <link>https://thegrid.ai/whitelion/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 17:47:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Feb 2016 18:57:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/whitelion/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b958ec2-bd3a-4462-8527-2d042baaacf3.jpg">]]></description>
+            <link>https://thegrid.ai/whitelion/d9a0a286-68dd-4f24-98e8-3d5ef66a9d01/index.html</link>
+            <guid isPermaLink="false">d9a0a286-68dd-4f24-98e8-3d5ef66a9d01</guid>
+            <pubDate>Wed, 24 Feb 2016 18:57:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba57ea52-69c2-4ab1-a470-2ef119065bc9.jpg">]]></description>
-            <link>undefined38223899-b2ad-42b7-bee4-b7e48c2df6b8/index.html</link>
+            <link>https://thegrid.ai/whitelion/38223899-b2ad-42b7-bee4-b7e48c2df6b8/index.html</link>
             <guid isPermaLink="false">38223899-b2ad-42b7-bee4-b7e48c2df6b8</guid>
             <pubDate>Wed, 10 Feb 2016 16:57:52 GMT</pubDate>
         </item>
