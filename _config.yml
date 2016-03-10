@@ -1,20 +1,4 @@
-name: Whitelion
-favicon: null
-layout_spectrum: 0.99902
-typography_spectrum: 0.49335
-title: White Lion Detail
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#0b0c10'
@@ -24,6 +8,11 @@ color:
     - '#172741'
   brandStrength: 0.0625
   lightness: 0.5625
-  saturation: 0.5
   rhythmicContrast: 0
+  saturation: 0.5
+cta: {}
+layout_spectrum: 0.804054
+name: Whitelion
+opengraph: {}
 purpose: []
+typography_spectrum: 1
