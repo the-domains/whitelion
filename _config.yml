@@ -23,7 +23,7 @@ color:
     - '#ca2948'
     - '#172741'
   brandStrength: 0
-  lightness: 1
+  lightness: 0
   saturation: 0
   rhythmicContrast: 0
 purpose: []
